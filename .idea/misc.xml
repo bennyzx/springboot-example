@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/eggnetech-rest-service-cors" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eggnetech-message-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/eggnetech-greeting/pom.xml" />
+        <option value="$PROJECT_DIR$/eggnetech-reactive-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/eggnetech-securing-web/pom.xml" />
+        <option value="$PROJECT_DIR$/eggnetech-accessing-data-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/eggnetech-centralized-config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/eggnetech-centralized-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eggnetech-caching/pom.xml" />
+        <option value="$PROJECT_DIR$/eggnetech-spring-data-web/pom.xml" />
+        <option value="$PROJECT_DIR$/eggnetech-dblib/pom.xml" />
+        <option value="$PROJECT_DIR$/eggnetech-mybatis/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

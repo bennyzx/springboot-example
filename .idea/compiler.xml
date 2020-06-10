@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eggnetech-reactive-redis" />
+        <module name="eggnetech-securing-web" />
+        <module name="eggnetech-caching" />
+        <module name="eggnetech-accessing-data-mysql" />
+        <module name="eggnetech-centralized-config-client" />
+        <module name="eggnetech-spring-data-web" />
+        <module name="eggnetech-mybatis" />
+        <module name="eggnetech-centralized-config-service" />
+        <module name="eggnetech-message-redis" />
+        <module name="eggnetech-greeting" />
+        <module name="eggnetech-dblib" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eggnetech-consuming-rest" target="1.8" />
+      <module name="eggnetech-consuming-rest.main" target="1.8" />
+      <module name="eggnetech-consuming-rest.test" target="1.8" />
+      <module name="eggnetech-dubbo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eggnetech-accessing-data-mysql" options="-parameters" />
+      <module name="eggnetech-caching" options="-parameters" />
+      <module name="eggnetech-centralized-config-client" options="-parameters" />
+      <module name="eggnetech-centralized-config-service" options="-parameters" />
+      <module name="eggnetech-dblib" options="-parameters" />
+      <module name="eggnetech-dubbo" options="-parameters" />
+      <module name="eggnetech-greeting" options="-parameters" />
+      <module name="eggnetech-message-redis" options="-parameters" />
+      <module name="eggnetech-mybatis" options="-parameters" />
+      <module name="eggnetech-reactive-redis" options="-parameters" />
+      <module name="eggnetech-securing-web" options="-parameters" />
+      <module name="eggnetech-spring-data-web" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - db_eggnetech@localhost" uuid="9b901d5b-114d-4077-8045-b3735b70cd31">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/db_eggnetech</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="db_eggnetech@eggnetech.cn" uuid="f5f1b511-c3f3-4e60-a99f-4c49af1d08e1">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://eggnetech.cn:3306/db_eggnetech</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="eggnetech_ssm@eggnetech.cn" uuid="6c873eb4-5ef3-47cc-bf2a-fad25d442a8a">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://eggnetech.cn:3306/eggnetech_ssm</jdbc-url>
+    </data-source>
+  </component>
+</project>
